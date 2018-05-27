@@ -1,6 +1,6 @@
 
 
-CREDIT for TABLEAU Exercises for this book are from the Author: Ryan Sleeper
+**CREDIT for TABLEAU Exercises for this book are from the Author: Ryan Sleeper
 
 All the files necessary for this class will be on the desktop, in a folder called "Desktop Level 2".  However, students and trainers can come to this repository to download all the files, here in GitHub.
 
