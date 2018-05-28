@@ -21,7 +21,7 @@ Chapter 8 - Exercise (Bar Chart Options) - 10 Minutes -- Book Pages:
 
 1.  **Use Excel Sample Superstore, ORDERS table:**
 
-![](.//media/image1.png)
+![](/media/image1.png)
 
 2.  **Rename Sheet 1 to Bar Chart Options (which will also change the
     title of the page to "Bar Chart Options" -- Additionally: right
