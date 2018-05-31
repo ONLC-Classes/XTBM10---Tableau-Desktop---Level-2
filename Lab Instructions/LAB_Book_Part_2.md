@@ -1,5 +1,5 @@
 **LAB Book partners up with Practical Tableau Book: Used for Tableau
-Desktop Level 2]{.underline}**
+Desktop Level 2]**
 
 **This Lab book is Part 2 of 5 Parts. Part 1 of the LAB BOOK has been
 designed for anyone who wants to prepare for Parts 2-5. **
@@ -147,13 +147,11 @@ Chapter 22 - Exercise (Scatter Plot) - 5 Minutes -- Book Pages: 126-128
     a.  Right-Click the Profit/Ratio Axis and add a RED REFERENCE line a
         little thicker than the default. See first pic below:
 
-    b.  ![](-media2=.//media/image1.png){width="3.6034722222222224in"
-        height="4.966666666666667in"}Right-Click the Sales Axis and add
+    b.  ![](-media2=.//media/image10.png)Right-Click the Sales Axis and add
         a RED REFERENCE line a little thicker than the default. See
         second pic below:
 
-![](-media2=.//media/image2.png){width="3.792361111111111in"
-height="4.763888888888889in"}
+![](-media2=.//media/image12.png)
 
 7.  Check Page 128 of your book for accuracy.
 
