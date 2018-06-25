@@ -12,7 +12,7 @@ class.**
 
 **\*\*\*Please note, all exercises will be created from scratch.
 However, the SOLUTION files for this Lab Book are located in the
-Workbooks folder and named "PartOne.twbx". **
+Workbooks folder and named "PartOne.twbx".**
 
 Part 1 --
 
@@ -21,7 +21,8 @@ Chapter 8 - Exercise (Bar Chart Options) - 10 Minutes -- Book Pages:
 
 1.  **Use Excel Sample Superstore, ORDERS table:**
 
-![](.//media/image1.png)
+![](/media/image1.png)
+
 
 2.  **Rename Sheet 1 to Bar Chart Options (which will also change the
     title of the page to "Bar Chart Options" -- Additionally: right
@@ -30,7 +31,7 @@ Chapter 8 - Exercise (Bar Chart Options) - 10 Minutes -- Book Pages:
     them to differentiate departments, or sheets vs. dashboards, or
     projects, etc.)**
 
-![](.//media/image2.png)
+![](/media/image2.png)
 
 3.  **SAVE Entire Workbook to your desktop. Name the File:
     "PartOne.twbx"-- you will use this workbook throughout Part One of
@@ -50,7 +51,7 @@ blue bar chart as above -- click the undo button
 
 \*\*\*\*
 
-**Option 3 --** Click ONCE on the SALES Measure, Go to the SHOW ME Box
+**Option 3** -- Click ONCE on the SALES Measure, Go to the SHOW ME Box
 and select the bar chart (3^rd^ row, 1^st^ column) -- Notice the bar
 chart by default is horizontal. Also Note that the Show Me Wizard
 changed the position of your SALES Field. It is now located in the
@@ -58,7 +59,7 @@ Column Shelf.
 
 Find the "SWAP" tool on the toolbar (or press CTRL + W)
 
-![](.//media/image3.png)
+![](/media/image3.png)
 
 Additionally: Click the swap tool again to watch it toggle back and
 forth between horizontal and vertical. (Notice your SALES measure moving
@@ -67,18 +68,18 @@ back and forth between Column and Row Shelves.
 CLEAR THE WORKSHEET: (Find "CLEAR" tool and click or press
 ALT\_SHIFT\_BACKSPACE)
 
-![](.//media/image4.png)
+![](/media/image4.png)
 
 \*\*\*\*
 
-**Option 4 --** Change to a bar chart using the MARKS SHELF:
+**Option 4** -- Change to a bar chart using the MARKS SHELF:
 
 Drag ORDER Date Dimension to the Column Shelf, Drag SALES Measure to
 Rows Shelf (see picture on Page 36 of your book).
 
 Go to the MARKS Shelf and Choose BAR CHART from the options:
 
-![](.//media/image5.png)(Notice that when you use the MARKS shelf,
+![](/media/image5.png)(Notice that when you use the MARKS shelf,
 as opposed to the "SHOW ME" Wizard, your SALES and ORDER DATE field
 remain in place. As you learn more about Tableau, you will rely less and
 less on the Wizard and learn to use the MARKS Shelf to create your
@@ -107,19 +108,19 @@ Next, Click on the Analytics TAB
 Under "Custom", Choose "Reference Line" -- then drag and drop on top of
 TABLE
 
-![](.//media/image6.png)
+![](/media/image6.png)
 
 You will see the screen below. Pick "Median" from the computation
 dropdown AND choose a line color from the Line Dropdown:
 
-![](.//media/image7.png)
+![](/media/image7.png)
 
 Repeat these actions twice more, once to depict MINIMUM and once to
 depict MAXIMUM:
 
 Your final result should look like this:
 
-![](.//media/image8.png)
+![](/media/image8.png)
 
 SAVE YOUR WORKBOOK
 
@@ -174,7 +175,7 @@ Chapter 9 - Exercise (Line Graphs/Axes/Dates) - 10 Minutes- (Book Pages
     you can click the plus signs and drill back down. The main
     difference is that you can SORT Discreet fields.
 
-![](.//media/image9.png)
+![](/media/image9.png)
 10. Additionally, feel free to use plus signs and sort tools to practice
     with DATES and HEIRARCHIES.
 
@@ -223,7 +224,7 @@ c)  Click "OK"
 
         -Drag Category onto the Shapes card
 
-        \*\*Be sure to hide the Show Me box by clicking the words "Show
+        **Be sure to hide the Show Me box by clicking the words "Show
         Me"
 
         Compare your results to page 50 in your book. Take the time to
@@ -339,7 +340,7 @@ c)  Click "OK"
 
         vi. END
 
-        vii. \*\*The calculation appears in capital letters, but this
+        vii. **The calculation appears in capital letters, but this
             has no significance. It just makes it easier to read. These
             key words are NOT case-sensitive.
 
