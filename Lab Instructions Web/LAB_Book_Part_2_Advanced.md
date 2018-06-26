@@ -1,8 +1,8 @@
 **[LAB Book partners up with Practical Tableau Book: Used for Tableau
-Desktop Level 2]{.underline}**
+Desktop Level 2]**
 
 **This Lab book is Part 3 of 5 Parts. Part 1 of the LAB BOOK has been
-designed for anyone who wants to prepare for Parts 2-5. **
+designed for anyone who wants to prepare for Parts 2-5.**
 
 **If you did not take the Tableau Desktop Level 1 class, you should work
 your way through this Part 1 Lab Book, to be sure you understand the
@@ -21,10 +21,10 @@ order to create charts without the "Show Me" wizard.**
 **For more help and information about Practical Tableau, please visit
 www.ryansleeper.com**
 
-Part 2 -- Chart Types - ADVANCED
+**Part 2 -- Chart Types - ADVANCED**
 
-Chapter 33 - Exercise (Sequential Path) - 3 Minutes -- Book Page:
-195-198
+**Chapter 33 - Exercise (Sequential Path) - 3 Minutes -- Book Page:
+195-198**
 
 1.  Get a new Sheet and name it "Sequential Path". Color the sheet tab
     if desired.
@@ -52,8 +52,8 @@ Chapter 33 - Exercise (Sequential Path) - 3 Minutes -- Book Page:
 
 9.  Compare your chart to page 198
 
-Chapter 34 - Exercise (Custom Background) -- 5-15 Minutes (depending on
-your choice below) -- Book Page: 201-206 - \*\*\*\*Amazing Lab
+**Chapter 34 - Exercise (Custom Background) -- 5-15 Minutes (depending on
+your choice below) -- Book Page: 201-206 - \*\*\*\*Amazing Lab**
 
 1.  Get a new Sheet and name it "Back Image". Color the sheet tab if
     desired.
@@ -65,7 +65,7 @@ your choice below) -- Book Page: 201-206 - \*\*\*\*Amazing Lab
     difference. One is nearly empty and the other is complete. Below
     find both ways to complete Exercise:
 
-FROM SCRATCH:
+**FROM SCRATCH:**
 
 1.  Add the "cords.xlsx" data source (from PartTwo\_Advanced folder)
 
@@ -148,14 +148,14 @@ page 206 in the book. In addition, you can also drag the Position
 Dimension onto the Text card on the Marks shelf to see the positions
 labeled.
 
-Chapter 35 - Exercise (Custom Polygon) --
+**Chapter 35 - Exercise (Custom Polygon)**
 
 This exercise should be skipped as we have seen much of same previously.
 If the students want to complete it, they should follow the directions
 on pages 207-210. However, they will need to create a custom data set in
 excel for the purposes of this lab.
 
-Chapter 36 - Exercise (Gantt) -- 10 Minutes -- Book Pages: 213-215
+**Chapter 36 - Exercise (Gantt) -- 10 Minutes -- Book Pages: 213-215**
 
 1.  Get a new Sheet and name it "Gantt". Color the sheet tab if desired.
 
@@ -201,7 +201,7 @@ Chapter 36 - Exercise (Gantt) -- 10 Minutes -- Book Pages: 213-215
     of different data. But the overall chart should resemble page 215 in
     your book.
 
-Chapter 37 - Exercise (Waterfall) -- 5 Minutes -- Book Pages: 218-221
+**Chapter 37 - Exercise (Waterfall) -- 5 Minutes -- Book Pages: 218-221**
 
 1.  Get a new Sheet and name it "Waterfall". Color the sheet tab if
     desired.
@@ -226,7 +226,7 @@ Chapter 37 - Exercise (Waterfall) -- 5 Minutes -- Book Pages: 218-221
 
 9.  Check your Waterfall chart with page 221 in your book.
 
-Chapter 38 - Exercise (Slope) -- 5 Minutes -- Book Pages: 218-221
+**Chapter 38 - Exercise (Slope) -- 5 Minutes -- Book Pages: 218-221**
 
 1.  Get a new Sheet and name it "Slope". Color the sheet tab if desired.
 
@@ -247,7 +247,7 @@ Chapter 38 - Exercise (Slope) -- 5 Minutes -- Book Pages: 218-221
 
 8.  Check your chart with page 226/
 
-Add a Dual-Axis to slope concept (5 Minutes) -- 226-230
+**Add a Dual-Axis to slope concept (5 Minutes) -- 226-230**
 
 1.  Get a new Sheet and name it "Slope Dual". Color the sheet tab if
     desired.
@@ -276,7 +276,7 @@ Add a Dual-Axis to slope concept (5 Minutes) -- 226-230
 
 11. Check your chart with page 230 to compare.
 
-Chapter 39 - Exercise (Donut) -- 10 Minutes -- Book Pages: 232-237
+**Chapter 39 - Exercise (Donut) -- 10 Minutes -- Book Pages: 232-237**
 
 1.  Get a new Sheet and name it "Donut". Color the sheet tab if desired.
 
@@ -310,7 +310,7 @@ Chapter 39 - Exercise (Donut) -- 10 Minutes -- Book Pages: 232-237
 
 13. 
 
-Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 240-246
+**Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 240-246**
 
 1.  Get a new Sheet and name it "Funnel". Color the sheet tab if
     desired.
@@ -341,7 +341,7 @@ Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 240-246
     desired, however this will involve a change to the data source. To
     keep it simple for class, we will leave it here.
 
-> Chapter 40 Exercise (Pace) -- 15 Minutes -- Book Pages: 248-255
+**Chapter 40 Exercise (Pace) -- 15 Minutes -- Book Pages: 248-255**
 
 12. Get a new Sheet and name it "Pace". Color the sheet tab if desired.
 
@@ -386,7 +386,7 @@ Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 240-246
 23. There is a variation on Pages 254-255 if you wish to continue on.
     This will require changing the Data Source
 
-> Chapter 41 Exercise (Pareto) -- 10 Minutes -- Book Pages: 259-263
+**Chapter 41 Exercise (Pareto) -- 10 Minutes -- Book Pages: 259-263**
 
 1.  Get a new Sheet and name it "Pareto". Color the sheet tab if
     desired.
@@ -427,7 +427,7 @@ Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 240-246
 
 12. Check your chart with the picture on page 263 of your book.
 
-> Chapter 41 Exercise (Control) -- 3 Minutes -- Book Pages: 267-269
+**Chapter 41 Exercise (Control) -- 3 Minutes -- Book Pages: 267-269**
 
 1.  Get a new Sheet and name it "Control". Color the sheet tab if
     desired.
