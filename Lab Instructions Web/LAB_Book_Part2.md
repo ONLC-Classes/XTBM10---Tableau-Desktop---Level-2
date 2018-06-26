@@ -1,5 +1,5 @@
 **[LAB Book partners up with Practical Tableau Book: Used for Tableau
-Desktop Level 2]{.underline}**
+Desktop Level 2]**
 
 **This Lab book is Part 2 of 5 Parts. Part 1 of the LAB BOOK has been
 designed for anyone who wants to prepare for Parts 2-5.**
@@ -21,7 +21,7 @@ order to create charts without the "Show Me" wizard.**
 **For more help and information about Practical Tableau, please visit
 www.ryansleeper.com**
 
-Part 2 -- Chart Types
+**Part 2 -- Chart Types**
 
 The charts starting on Page 110 and going to Page 193 are considered
 "Common Charts", however, they are excellent because they do NOT use the
@@ -32,8 +32,8 @@ reason. Glance through the arts, and pick and choose or do them all!
 However, if you want a challenge, flip to Page 195 (and move down the
 Lab Exercises in this book to Chapter 33).
 
-Chapter 19 - Exercise (Highlighted Table) - 3 Minutes -- Book Pages:
-110-112
+**Chapter 19 - Exercise (Highlighted Table) - 3 Minutes -- Book Pages:
+110-112**
 
 1.  Create a new WORKBOOK. Use the Excel Sample Super Store as your data
     source, Double Click the ORDERS Table to obtain the Dimensions and
@@ -59,7 +59,7 @@ Chapter 19 - Exercise (Highlighted Table) - 3 Minutes -- Book Pages:
 9.  Lastly, Click the color card and use the border tool to put a white
     border on your table.
 
-Chapter 20 - Exercise (Heat Map) - 8 Minutes -- Book Pages: 114-117
+**Chapter 20 - Exercise (Heat Map) - 8 Minutes -- Book Pages: 114-117**
 
 1.  Get a new Sheet and name it "Heat Map". Color the sheet tab if
     desired.
@@ -91,8 +91,8 @@ Chapter 20 - Exercise (Heat Map) - 8 Minutes -- Book Pages: 114-117
 12. Change the chart type on the Marks care to square, just to see the
     "typical" heat map. Play with the size tool until you like it!
 
-Chapter 21 - Exercise (Dual-Axis/Combination) - 4 Minutes -- Book Pages:
-119-123
+**Chapter 21 - Exercise (Dual-Axis/Combination) - 4 Minutes -- Book Pages:
+119-123**
 
 1.  Get a new Sheet and name it "Dual-Axis". Color the sheet tab if
     desired.
@@ -122,7 +122,7 @@ Chapter 21 - Exercise (Dual-Axis/Combination) - 4 Minutes -- Book Pages:
 9.  Change the Average Discount chart type to LINE on the marks card.
     Check your final picture with Page 123 of your book.
 
-Chapter 22 - Exercise (Scatter Plot) - 5 Minutes -- Book Pages: 126-128
+**Chapter 22 - Exercise (Scatter Plot) - 5 Minutes -- Book Pages: 126-128**
 
 1.  Get a new Sheet and name it "Scatter Plot". Color the sheet tab if
     desired.
@@ -150,20 +150,18 @@ Chapter 22 - Exercise (Scatter Plot) - 5 Minutes -- Book Pages: 126-128
     a.  Right-Click the Profit/Ratio Axis and add a RED REFERENCE line a
         little thicker than the default. See first pic below:
 
-    b.  ![](.//media/image1.png){width="3.6034722222222224in"
-        height="4.966666666666667in"}Right-Click the Sales Axis and add
+    b.  ![](/media/image10.png)Right-Click the Sales Axis and add
         a RED REFERENCE line a little thicker than the default. See
         second pic below:
 
-![](.//media/image2.png){width="3.792361111111111in"
-height="4.763888888888889in"}
+![](/media/image11.png)
 
 7.  Check Page 128 of your book for accuracy.
 
-Chapter 23 - Exercise (Tree Map -- Four Ideas) - 15 Minutes -- Book
-Pages: 131-135
+**Chapter 23 - Exercise (Tree Map -- Four Ideas) - 15 Minutes -- Book
+Pages: 131-135**
 
-Tree Map 1
+**Tree Map 1**
 
 1.  Get a new Sheet and name it "Tree Map1". Color the sheet tab if
     desired.
@@ -176,7 +174,7 @@ Tree Map 1
 4.  Drag Country and State Dimensions to Detail card on Marks shelf.
     Compare your first Tree Map to page 132 in your book.
 
-Tree Map 2
+**Tree Map 2**
 
 1.  Duplicate the "Tree Map1" sheet. Leave name as is. Leave color as is
     (if you colored it)
@@ -188,13 +186,12 @@ Tree Map 2
     effort to make your chart wider. See pic below for where to put your
     mouse:
 
-    a.  ![](.//media/image3.png){width="4.254717847769029in"
-        height="4.254717847769029in"}
+    a.  ![](/media/image12.png)
 
 4.  Look at page 133 in your book to see that your chart looks similar
     to the book.
 
-Tree Map 3
+**Tree Map 3**
 
 1.  Duplicate the "Tree Map2" sheet. Leave name as is. Leave color as is
     (if you colored it)
@@ -209,7 +206,7 @@ Tree Map 3
 4.  Check page 134 in your book for validation of how your chart will
     look.
 
-Tree Map 4
+**Tree Map 4**
 
 1.  Duplicate the "Tree Map3" sheet. Leave name as is. Leave color as is
     (if you colored it)
@@ -225,7 +222,7 @@ Tree Map 4
 
 5.  Check page 135 in your book for how your chart should look.
 
-Chapter 24 - Exercise (Sparklines) - 8 Minutes -- Book Pages: 138-144
+**Chapter 24 - Exercise (Sparklines) - 8 Minutes -- Book Pages: 138-144**
 
 1.  Get a new Sheet and name it "Sparklines". Color the sheet tab if
     desired.
@@ -259,8 +256,8 @@ Chapter 24 - Exercise (Sparklines) - 8 Minutes -- Book Pages: 138-144
 7.  Check Page 144 to see that it is similar (except for color) to the
     Sparkline chart on that page.
 
-Chapter 25 - Exercise (Small Multiples) - 5 Minutes -- Book Pages:
-148-151
+**Chapter 25 - Exercise (Small Multiples) - 5 Minutes -- Book Pages:
+148-151**
 
 1.  Get a new Sheet and name it "Small Multiples". Color the sheet tab
     if desired.
@@ -285,8 +282,8 @@ Chapter 25 - Exercise (Small Multiples) - 5 Minutes -- Book Pages:
 8.  Check page 151 to see if your chart appears as the picture in the
     book.
 
-Chapter 26 - Exercise (Bullet Graphs) - 15 Minutes -- Book Pages:
-154-159
+**Chapter 26 - Exercise (Bullet Graphs) - 15 Minutes -- Book Pages:
+154-159**
 
 1.  Get a new Sheet and name it "Bullet". Color the sheet tab if
     desired.
@@ -350,8 +347,7 @@ Chapter 26 - Exercise (Bullet Graphs) - 15 Minutes -- Book Pages:
 
 14. Check page 159 to see how your chart compares to the book.
 
-> Chapter 27 - Exercise (Stacked Area) - 4 Minutes -- Book Pages:
-> 162-167
+**Chapter 27 - Exercise (Stacked Area) - 4 Minutes -- Book Pages: 162-167**
 
 1.  Get a new Sheet and name it "Area". Color the sheet tab if desired.
 
@@ -378,7 +374,7 @@ Chapter 26 - Exercise (Bullet Graphs) - 15 Minutes -- Book Pages:
     Check Page 167 to see how your chart "stacks up" to the one in the
     book.
 
-> Chapter 28 - Exercise (Histogram) - 4 Minutes -- Book Pages: 172-173
+**Chapter 28 - Exercise (Histogram) - 4 Minutes -- Book Pages: 172-173**
 
 1.  Get a new Sheet and name it "Histogram". Color the sheet tab if
     desired.
@@ -401,8 +397,8 @@ Chapter 26 - Exercise (Bullet Graphs) - 15 Minutes -- Book Pages:
     range to any numbers (1, 3, 4, etc.) The higher your number goes,
     the less "ranges" you get.
 
-Chapter 29 - Exercise (Box and Whisker) - 3 Minutes -- Book Pages:
-177-181
+**Chapter 29 - Exercise (Box and Whisker) - 3 Minutes -- Book Pages:
+177-181**
 
 1.  Get a new Sheet and name it "Box Whisker". Color the sheet tab if
     desired.
@@ -423,7 +419,7 @@ Chapter 29 - Exercise (Box and Whisker) - 3 Minutes -- Book Pages:
 
 7.  Check page 181 for finished map to compare yours.
 
-Chapter 30 - Exercise (Symbol Map) - 3 Minutes -- Book Pages: 177-181
+**Chapter 30 - Exercise (Symbol Map) - 3 Minutes -- Book Pages: 177-181**
 
 1.  Get a new Sheet and name it "Symbol Map". Color the sheet tab if
     desired.
@@ -437,7 +433,7 @@ Chapter 30 - Exercise (Symbol Map) - 3 Minutes -- Book Pages: 177-181
 
 5.  Check page 185 (top) to compare yours.
 
-Chapter 30 - Exercise (Map-Box Map) - 10 Minutes -- Book Pages: 185-186
+**Chapter 30 - Exercise (Map-Box Map) - 10 Minutes -- Book Pages: 185-186**
 
 1.  Get a new Sheet and name it "Map Box Map". Color the sheet tab if
     desired.
@@ -475,7 +471,7 @@ Chapter 30 - Exercise (Map-Box Map) - 10 Minutes -- Book Pages: 185-186
 
 15. Check page 186 (bottom) to compare yours.
 
-Chapter 30 - Exercise (Filled Map) - 2 Minutes -- Book Page: 189
+**Chapter 30 - Exercise (Filled Map) - 2 Minutes -- Book Page: 189**
 
 1.  Get a new Sheet and name it "Filled Map". Color the sheet tab if
     desired.
@@ -490,7 +486,7 @@ Chapter 30 - Exercise (Filled Map) - 2 Minutes -- Book Page: 189
 
 5.  Compare page 189 with yours
 
-Chapter 30 - Exercise (Dual Axis Map) - 5 Minutes -- Book Page: 192-193
+**Chapter 30 - Exercise (Dual Axis Map) - 5 Minutes -- Book Page: 192-193**
 
 1.  Get a new Sheet and name it "Dual Axis Map". Color the sheet tab if
     desired.
@@ -523,8 +519,8 @@ Chapter 30 - Exercise (Dual Axis Map) - 5 Minutes -- Book Page: 192-193
 
 12. Check page 193 to compare yours
 
-PAGE 195 - The Remaining Charts for this chapter are considered
+**PAGE 195 - The Remaining Charts for this chapter are considered
 ADVANCED. They are in the PartTwo folder, in a workbook called
 "PartTwo\_Advanced.twbx". Please feel free to do as many as you
 can/desire, or save them for a later time when you want a challenge. Be
-sure to understand the Business Reason for each chart!
+sure to understand the Business Reason for each chart!**
