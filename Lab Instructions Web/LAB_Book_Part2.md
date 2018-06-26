@@ -150,7 +150,9 @@ Lab Exercises in this book to Chapter 33).
     a.  Right-Click the Profit/Ratio Axis and add a RED REFERENCE line a
         little thicker than the default. See first pic below:
 
-    b.  ![](/media/image10.png)Right-Click the Sales Axis and add
+![](/media/image10.png)
+
+    b.  Right-Click the Sales Axis and add
         a RED REFERENCE line a little thicker than the default. See
         second pic below:
 
