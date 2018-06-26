@@ -1,11 +1,11 @@
 **[LAB Book partners up with Practical Tableau Book: Used for Tableau
-Desktop Level 2]{.underline}**
+Desktop Level 2]**
 
 **This Lab book is Part 4 of 5 Parts**
 
-Part 3 -- Tips and Tricks
+**Part 3 -- Tips and Tricks**
 
-Chapter 47 - Exercise (Icons) - 8 Minutes -- Book Pages: 295-299
+**Chapter 47 - Exercise (Icons) - 8 Minutes -- Book Pages: 295-299**
 
 1.  Before you begin:
 
@@ -89,7 +89,7 @@ Chapter 47 - Exercise (Icons) - 8 Minutes -- Book Pages: 295-299
     This is because your option was set to "Show All Values" when
     choosing "Clearing the Selection" (from step 21).
 
-Chapter 48 - Exercise (What-If) - 8 Minutes -- Book Pages: 302-305
+**Chapter 48 - Exercise (What-If) - 8 Minutes -- Book Pages: 302-305**
 
 1.  Get a new sheet and call it "What If". Color the sheet tab if
     desired.
@@ -156,7 +156,7 @@ Chapter 48 - Exercise (What-If) - 8 Minutes -- Book Pages: 302-305
     you can slide the slider to change the Sales and the What-if Sales
     to show the "forecast" of sales if the What-If changes.
 
-> Chapter 49 - Exercise (Alerts) - 15 Minutes -- Book Pages: 308
+**Chapter 49 - Exercise (Alerts) - 15 Minutes -- Book Pages: 308**
 
 1.  Get a new sheet and call it "Alerts". Color the sheet tab if
     desired.
@@ -178,18 +178,14 @@ Chapter 48 - Exercise (What-If) - 8 Minutes -- Book Pages: 302-305
         then double clicking the Display field. Set them up as follows:
         (be sure to use all small letters on the Value (left) side.
 
-+-------------+-------------+
-| 13. day     | 14. Day     |
-                           
-+=============+=============+
-| 5.  week    | 6.  Week    |
-+-------------+-------------+
-| 7.  quarter | 8.  Quarter |
-+-------------+-------------+
-| 9.  month   | 10. Month   |
-+-------------+-------------+
-| 11. year    | 12. Year    |
-+-------------+-------------+
+| **13. day**       | **14. Day**     |
+|:----------------  | :-------------- |
+| **5.  week**      | **6.  Week**    |
+| **7.  quarter**   | **8.  Quarter** |
+| **9.  month**     | **10. Month**   |
+| **11. year**      | **12. Year**    |
+
+
 
 15. Create a calculation: Name it "Date Choice". Calc: DATETRUNC(\[Set
     Date Aggregation\], \[Order Date\])
@@ -214,23 +210,23 @@ Chapter 48 - Exercise (What-If) - 8 Minutes -- Book Pages: 302-305
 
     f.  Shows dates from : \<MIN(Order Date)\> to: \<MAX(Order Date)\>
 
-        i.  by : \<Parameters.Set Date Parameter\>
+       i.  by : \<Parameters.Set Date Parameter\>
 
-        ii. Hint: if you accidentally delete any of the fields, you can
+       ii. Hint: if you accidentally delete any of the fields, you can
             use the INSERT tool to get them back (take a look by
             clicking, to see what is available)
 
-        iii. Format the text as desired and then click OK (once)
+       iii. Format the text as desired and then click OK (once)
 
     g.  Back in the Label card:
 
-        iv. Click on "Line Ends" -- Take middle check at bottom off
+       iv. Click on "Line Ends" -- Take middle check at bottom off
             (Label Start of Line)
 
-        v.  In the Alignment section, click where you want the text to
-            appear (for example: Left, Top) - it will appear as "custom"
+       v.  In the Alignment section, click where you want the text to
+           appear (for example: Left, Top) - it will appear as "custom"
 
-> Chapter 50 - Exercise (Alerts 2) - 5 Minutes -- Book Pages: 309
+**Chapter 50 - Exercise (Alerts 2) - 5 Minutes -- Book Pages: 309**
 
 1.  Get a new sheet and call it "Alerts 2" Color the sheet tab if
     desired.
@@ -261,7 +257,7 @@ c.  Drag your new Dynamic Label Alert to the Label card. Click the label
 
 5.  Labels will automatically appear
 
-> Chapter 51 - Exercise (Alert 3) - 5 Minutes -- Book Pages: 310-311
+**Chapter 51 - Exercise (Alert 3) - 5 Minutes -- Book Pages: 310-311**
 
 1.  Get a new sheet and call it "Alerts 3" Color the sheet tab if
     desired.
