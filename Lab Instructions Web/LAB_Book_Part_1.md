@@ -14,32 +14,32 @@ class.**
 However, the SOLUTION files for this Lab Book are located in the
 Workbooks folder and named "PartOne.twbx".**
 
-Part 1 --
+**Part 1 --**
 
-Chapter 8 - Exercise (Bar Chart Options) - 10 Minutes -- Book Pages:
-35-37 (top)
+**Chapter 8 - Exercise (Bar Chart Options) - 10 Minutes -- Book Pages:
+35-37 (top)**
 
-1.  **Use Excel Sample Superstore, ORDERS table:**
+1.  Use Excel Sample Superstore, ORDERS table:
 
 ![](/media/image1.png)
 
 
-2.  **Rename Sheet 1 to Bar Chart Options (which will also change the
+2.  Rename Sheet 1 to Bar Chart Options (which will also change the
     title of the page to "Bar Chart Options" -- Additionally: right
     click the sheet tab and choose "color" off the menu. (\*note: these
     colors are your preference, but back at work, you may consider using
     them to differentiate departments, or sheets vs. dashboards, or
-    projects, etc.)**
+    projects, etc.)
 
 ![](/media/image2.png)
 
-3.  **SAVE Entire Workbook to your desktop. Name the File:
+3.  **SAVE Entire Workbook to your desktop.** Name the File:
     "PartOne.twbx"-- you will use this workbook throughout Part One of
-    Practical Tableau Book.**
+    Practical Tableau Book.
 
-4.  **Once you have the steps above opened, you will try each of the
+4.  Once you have the steps above opened, you will try each of the
     FIVE bar chart options discussed in your book on pages 35 and 36.
-    Please follow the steps below to complete these five options:**
+    Please follow the steps below to complete these five options:
 
 **Option 1** -- Double Click the SALES Measure. Result: plain blue bar
 chart -- click the undo button
@@ -97,8 +97,8 @@ going through many menus to get the desired result.
 
 **SAVE THE WORKBOOK and keep this worksheet open for next exercise.**
 
-Part 1 - Chapter 8 - Exercise (Bar Chart Analytics) - 5 Minutes (Book
-Page: 37)
+**Part 1 - Chapter 8 - Exercise (Bar Chart Analytics) - 5 Minutes (Book
+Page: 37)**
 
 Continuing with MEDIAN(SALES) on ROW SHELF , drag REGION to the COLUMNS
 SHELF AND a second REGION pill to the COLOR Card On the MARKS Shelf).
@@ -124,8 +124,8 @@ Your final result should look like this:
 
 SAVE YOUR WORKBOOK
 
-Chapter 9 - Exercise (Line Graphs/Axes/Dates) - 10 Minutes- (Book Pages
-41-46)
+**Chapter 9 - Exercise (Line Graphs/Axes/Dates) - 10 Minutes- (Book Pages
+41-46)**
 
 1.  Add a new sheet to your workbook. Name the Sheet "Line Graphs" and
     additionally, change the color if desired.
@@ -181,8 +181,8 @@ Chapter 9 - Exercise (Line Graphs/Axes/Dates) - 10 Minutes- (Book Pages
 
 11. Save the workbook.
 
-    Chapter 10 - Exercise (Level of Detail and Scatters) - 5 Minutes --
-    Book Pages: 49-50
+**Chapter 10 - Exercise (Level of Detail and Scatters) - 5 Minutes --
+Book Pages: 49-50**
 
 <!-- -->
 
@@ -231,8 +231,7 @@ c)  Click "OK"
         hover over the chart and see all the details available in the
         tool tips.
 
-        Chapter 11 - Exercise (Filtering Dimensions and Measures) - 5
-        Minutes -- Book Pages: 54-59
+**Chapter 11 - Exercise (Filtering Dimensions and Measures) - 5 Minutes -- Book Pages: 54-59**
 
 <!-- -->
 
@@ -268,8 +267,8 @@ c)  Click "OK"
 
 11. Your chart should look like page 59 in your book.
 
-> Chapter 12 - Exercise (Calculated Fields) - 5 Minutes -- Book Pages:
-> 62
+**Chapter 12 - Exercise (Calculated Fields) - 5 Minutes -- Book Pages:
+62**
 
 1.  Get a new worksheet, name it "Calcs" (color if desired)
 
@@ -295,8 +294,8 @@ c)  Click "OK"
     DISTINCT OrderID, regardless of how many line items were in that
     order.
 
-> Chapter 12 - Exercise (AOV -- Average Order Value) - 10 Minutes --
-> Book Pages: 63
+**Chapter 12 - Exercise (AOV -- Average Order Value) - 10 Minutes --
+Book Pages: 63**
 
 1.  Get a new worksheet, name it "Conditions" (color if desired)
 
@@ -313,8 +312,8 @@ c)  Click "OK"
 >
 > \*\*\*You will use this calculation in the next exercise.
 >
-> Chapter 12 - Exercise (Aggregating Calculated Fields) - 10 Minutes --
-> Book Pages: 65-67
+**Chapter 12 - Exercise (Aggregating Calculated Fields) - 10 Minutes --
+Book Pages: 65-67**
 
 1.  Continue with your "Conditions" Worksheet.
 
@@ -351,8 +350,8 @@ c)  Click "OK"
 
 5.  Drag the new AOV Measure to the "TEXT CARD" on the Marks Shelf.
 
-> Chapter 13 - Exercise (Table Calculations) - 5 Minutes -- Book Pages:
-> 69-74
+**Chapter 13 - Exercise (Table Calculations) - 5 Minutes -- Book Pages:
+69-74**
 
 1.  Create a new Worksheet named "CrossTab" (color if desired)
 
@@ -385,7 +384,7 @@ c)  Click "OK"
 
 11. Check your results. It should look similar to the chart on page 74.
 
-> Chapter 14 - Exercise (Parameters) - 5 Minutes -- Book Pages: 76-79
+**Chapter 14 - Exercise (Parameters) - 5 Minutes -- Book Pages: 76-79**
 
 1.  Create a new Worksheet named "Params" (color if desired)
 
@@ -423,7 +422,7 @@ c)  Click "OK"
 9.  When you change the parameter number either by typing or dragging
     the slider, the value in your VIEW changes dynamically.
 
-> Chapter 15 - Exercise (Sets) - 15 Minutes -- Book Pages: 81 - 88
+**Chapter 15 - Exercise (Sets) - 15 Minutes -- Book Pages: 81 - 88**
 
 1.  Create a new Worksheet named "Sets Filter" (color if desired)
 
@@ -459,7 +458,7 @@ h.  Drag the new Set onto the row, next to Customer Name. Notice that
     c.  Click Cancel (we are just looking at a different way to make a
         set)
 
-USING SETS FIVE WAYS
+**USING SETS FIVE WAYS**
 
 1.  WAY ONE - FILTER
 
@@ -528,8 +527,8 @@ USING SETS FIVE WAYS
         page 88. You got three different views as a result of this
         hierarchy.
 
-> Chapter 16 - Exercise (Level of Detail Expressions (LOD)) - 10 Minutes
-> -- Book Pages: 90-92
+**Chapter 16 - Exercise (Level of Detail Expressions (LOD)) - 10 Minutes
+-- Book Pages: 90-92**
 
 1.  Create a new Worksheet named "LOD" (color if desired)
 
@@ -560,8 +559,8 @@ USING SETS FIVE WAYS
 
 11. Check your charts with top and bottom of page 92 in book.
 
-> Chapter 17 - Exercise (Dashboards and Distribution) - 10 Minutes --
-> Book Pages: 96-100
+**Chapter 17 - Exercise (Dashboards and Distribution) - 10 Minutes --
+Book Pages: 96-100**
 
 1.  Create a new Worksheet names "Map" -- color if desired
 
