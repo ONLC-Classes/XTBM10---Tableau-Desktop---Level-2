@@ -18,4 +18,4 @@ Consider your team development. Do you:
 In an exchange of ideas, students can talk about the experiences which
 help them create the perfect business scenarios in Tableau. From
 requirements to Visuals, the core data stays in place while it is then
-customized for each busiess.
+customized for each business.
