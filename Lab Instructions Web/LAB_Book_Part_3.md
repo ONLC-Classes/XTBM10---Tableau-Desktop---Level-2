@@ -36,9 +36,9 @@ Desktop Level 2**
 5.  Get a new data source (icons.xlsx) in your Data Sources folder
 
 6.  There is only one field called "Icon Name" -- Drag it to the Rows
-    shelf
+    shelf - 
 
-7.  Change your Automatic chart type to Shape on the Marks shelf
+7.  Change your Automatic chart type to Shape on the Marks shelf - DRAG another instance of Icons to SHAPE CARD.
 
 8.  Notice that Tableau assigned a shape to each of your Icon Names.
     Also notice you got a new legend to describe each shape.
