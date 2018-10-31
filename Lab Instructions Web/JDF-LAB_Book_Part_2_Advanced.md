@@ -1,5 +1,5 @@
-**[LAB Book partners up with Practical Tableau Book: Used for Tableau
-Desktop Level 2]**
+**LAB Book partners up with Practical Tableau Book: Used for Tableau
+Desktop Level 2**
 
 **This Lab book is Part 3 of 5 Parts. Part 1 of the LAB BOOK has been
 designed for anyone who wants to prepare for Parts 2-5.**
