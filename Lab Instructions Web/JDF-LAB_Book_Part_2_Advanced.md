@@ -205,7 +205,7 @@ excel for the purposes of this lab.
     (or use SOLUTION "PartTwo\_Advanced.twbx" and copy. Here is the
     calculation:
 
-> \[End Date\] - \[Start Date\]
+ \[End Date\] - \[Start Date\]
 
 6.  Drag this new Days measure to the Size card on the Marks shelf.
 
@@ -329,7 +329,7 @@ excel for the purposes of this lab.
 12. Select the All header in the Marks shelf. Drag the Company Dimension
     to Color card on the All header in the Marks shelf
 
-13. Important: select the LAST (2^nd^) Size of Audience pill in the Rows
+13. Important: select the LAST (2nd) Size of Audience pill in the Rows
     shelf. Drag Size of Audience to Label Card in Marks shelf
 
 14. In Marks shelf, right-click on Sum(Size of Audience) pill currently
@@ -386,7 +386,6 @@ excel for the purposes of this lab.
 13. Check your chart with page 236 to compare.
 
 14. Could create a calculation named: "% of Goal" with the calculation
-    --
 
  SUM(\[Sales\])/\[Sales Goals - Actual Goals\].
 
@@ -480,13 +479,13 @@ SUM(\[Current\])/SUM(\[Goal\])
 
     e.  Calculation:
 
-> IF \[% of Goal\] / \[Pace\] \>= 1 THEN \"On Pace\"
->
-> ELSEIF \[% of Goal\] / \[Pace\] \>= .9 THEN \"Slightly Behind Pace\"
->
-> ELSE \"Behind Pace\"
->
-> END
+ IF \[% of Goal\] / \[Pace\] \>= 1 THEN \"On Pace\"
+
+ ELSEIF \[% of Goal\] / \[Pace\] \>= .9 THEN \"Slightly Behind Pace\"
+
+ ELSE \"Behind Pace\"
+
+ END
 
 25. Drag the new Pace Score measure/calculation to the Color Card.
 
