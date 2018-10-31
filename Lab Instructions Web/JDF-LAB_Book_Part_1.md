@@ -1,5 +1,5 @@
-**[LAB Book partners up with Practical Tableau Book: Used for Tableau
-Desktop Level 2]{.underline}**
+**LAB Book partners up with Practical Tableau Book: Used for Tableau
+Desktop Level 2**
 
 **This Lab book is Part 1 of 5 Parts. Part 1 has been designed for
 anyone who wants to prepare for Parts 2-5. If you did not take the
@@ -12,18 +12,17 @@ Level 2 Class***
 
 **\*\*\*Please note, all exercises will be created from scratch.
 However, the SOLUTION files for this Lab Book are located in the
-Workbooks folder**[^1] **and named "PartOne.twbx". **
+Workbooks folder^1** **and named "PartOne.twbx".**
 
-Part 1 --
+**Part 1** --
 
-Chapter 8 - Exercise (Bar Chart Options) - 10 Minutes -- Book Pages:
-35-37 (top)
+**Chapter 8 - Exercise (Bar Chart Options) - 10 Minutes -- Book Pages:
+35-37 (top)**
 
 1.  Create a new workbook and use the Excel Sample Superstore, ORDERS
     table:
 
-![](.//media/image1.png){width="6.070387139107612in"
-height="3.6706167979002626in"}
+![](/media/part1image1.png)
 
 2.  Rename Sheet 1 to "Bar Chart Options" (which will also change the
     title of the page to "Bar Chart Options" -- Additionally: right
@@ -32,8 +31,7 @@ height="3.6706167979002626in"}
     them to differentiate departments, or sheets vs. dashboards, or
     projects, etc.)
 
-![](.//media/image2.png){width="4.1427504374453195in"
-height="1.5208333333333333in"}
+![](/media/part1image2.png)
 
 3.  SAVE Entire Workbook to your desktop. Name the file:
     "**PartOne.twbx**"-- you will use this workbook throughout Part One
@@ -53,16 +51,15 @@ blue bar chart as above -- click the undo button
 
 \*\*\*\*
 
-**Option 3 --** Click ONCE on the SALES Measure, Go to the SHOW ME Box
-and select the bar chart (3^rd^ row, 1^st^ column) -- Notice the bar
+**Option 3** -- Click ONCE on the SALES Measure, Go to the SHOW ME Box
+and select the bar chart (3rd row, 1st column) -- Notice the bar
 chart by default is horizontal. Also Note that the Show Me Wizard
 changed the position of your SALES Field. It is now located in the
 Column Shelf.
 
 -   Find the "SWAP" tool on the toolbar (or press **CTRL + W**)
 
-![](.//media/image3.png){width="6.261194225721785in"
-height="1.0783169291338583in"}
+![](/media/part1image3.png)
 
 -   Additionally: Click the swap tool again to watch it toggle back and
     forth between horizontal and vertical. (Notice your SALES measure
@@ -71,20 +68,18 @@ height="1.0783169291338583in"}
 -   CLEAR THE WORKSHEET: (Find "CLEAR" tool and click or press
     ALT\_SHIFT\_BACKSPACE)
 
-![](.//media/image4.png){width="6.268655949256343in"
-height="0.7365671478565179in"}
+![](/media/part1image4.png)
 
 \*\*\*\*
 
-**Option 4 --** Change to a bar chart using the MARKS SHELF:
+**Option 4** -- Change to a bar chart using the MARKS SHELF:
 
 -   Drag ORDER Date dimension to the Column shelf, Drag SALES measure to
     Rows shelf (see picture on Page 36 of your book).
 
 -   Go to the MARKS Shelf and Choose BAR CHART from the options:
 
-![](.//media/image5.png){width="2.156550743657043in"
-height="2.0836242344706912in"}
+![](/media/part1image5.png)
 
 -   (Notice that when you use the MARKS shelf, as opposed to the "SHOW
     ME" Wizard, your SALES and ORDER DATE field remain in place. As you
@@ -93,7 +88,7 @@ height="2.0836242344706912in"}
 
 -   CLEAR the Worksheet
 
-\*\*\*
+\*\*\*\*
 
 **Option 5** -- Right-Drag the SALES measure to the Rows shelf. (Result:
 See picture on Page 37 of your book.)
@@ -105,8 +100,8 @@ See picture on Page 37 of your book.)
 
 **SAVE THE WORKBOOK and keep this worksheet open for next exercise.**
 
-Part 1 - Chapter 8 - Exercise (Bar Chart Analytics) - 5 Minutes (Book
-Page: 37)
+**Part 1 - Chapter 8 - Exercise (Bar Chart Analytics) - 5 Minutes (Book
+Page: 37)**
 
 Continuing with MEDIAN(Sales) on Row shelf:
 
@@ -119,28 +114,26 @@ Continuing with MEDIAN(Sales) on Row shelf:
 4.  Under "Custom", Choose "Reference Line" -- then drag and drop on top
     of TABLE
 
-![](.//media/image6.png){width="4.302083333333333in"
-height="1.8387423447069116in"}
+![](/media/part1image6.png)
 
 5.  You will see the screen below. Pick "Median" from the computation
     dropdown.
 
 6.  Choose a line color from the Line Dropdown:
 
-![](.//media/image7.png){width="4.28125in" height="2.424058398950131in"}
+![](/media/part1image7.png)
 
 7.  Repeat these actions twice more, once to depict MINIMUM and once to
     depict MAXIMUM:
 
 Your final result should look like this:
 
-![](.//media/image8.png){width="5.208333333333333in"
-height="3.08834864391951in"}
+![](/media/part1image8.png)
 
 8.  SAVE YOUR WORKBOOK
 
-Chapter 9 - Exercise (Line Graphs/Axes/Dates) - 10 Minutes- (Book Pages
-41-46)
+**Chapter 9 - Exercise (Line Graphs/Axes/Dates) - 10 Minutes- (Book Pages
+41-46)**
 
 1.  Add a new sheet to your workbook. Name the Sheet "Line Graphs" and
     additionally, change the color if desired.
@@ -196,16 +189,15 @@ Chapter 9 - Exercise (Line Graphs/Axes/Dates) - 10 Minutes- (Book Pages
     you can click the plus signs and drill back down. The main
     difference is that you can SORT Discreet fields.
 
-![](.//media/image9.png){width="6.313432852143482in"
-height="1.1305719597550306in"}
+![](/media/part1image9.png)
 
 11. Additionally, feel free to use plus signs and sort tools to practice
     with DATES and HEIRARCHIES.
 
 12. Save the workbook.
 
-    Chapter 10 - Exercise (Level of Detail and Scatters) - 5 Minutes --
-    Book Pages: 49-50
+    **Chapter 10 - Exercise (Level of Detail and Scatters) - 5 Minutes --
+    Book Pages: 49-50**
 
 <!-- -->
 
@@ -221,11 +213,11 @@ a)  Start this calculation by clicking on the "Analysis" menu and then
     area in the Meaures area and "Create Calculated Field" 0r you could
     right mouse click an existing measure and create a calculated field.
 
-b)  Then type in : SUM(\[Profit\[) / SUM(\[Sales\])
+b)  Then type in : SUM(\[Profit]\) / SUM(\[Sales]\)
 
-    a.  OR you could also DRAG the fields into the calculation window.
-        If you do this, please note the orange arrow pointing down.
-        Tableau will place your dragged object where this arrow appears.
+   a.  OR you could also DRAG the fields into the calculation window.
+       If you do this, please note the orange arrow pointing down.
+       Tableau will place your dragged object where this arrow appears.
 
 c)  Click "OK"
 
@@ -248,14 +240,14 @@ c)  Click "OK"
 
     d.  Drag Category onto the Shapes card
 
-        Be sure to hide the Show Me box by clicking the words "Show Me.
-        This will enable you to see associated reference legends (color,
-        size, shape type) encoded in the view." Compare your results to
-        page 50 in your book. Take the time to hover over the chart and
-        see all the details available in the tool tips.
+       Be sure to hide the Show Me box by clicking the words "Show Me.
+       This will enable you to see associated reference legends (color,
+       size, shape type) encoded in the view." Compare your results to
+       page 50 in your book. Take the time to hover over the chart and
+       see all the details available in the tool tips.
 
-        Chapter 11 - Exercise (Filtering Dimensions and Measures) - 5
-        Minutes -- Book Pages: 54-59
+   **Chapter 11 - Exercise (Filtering Dimensions and Measures) - 5
+   Minutes -- Book Pages: 54-59**
 
 <!-- -->
 
@@ -284,7 +276,7 @@ c)  Click "OK"
     with the letter "A".
 
 9.  Next, drag the Sales Measure into the Filter shelf. The Filter Field
-    \[Sales \] pop-up has values which are aggregates. Choose SUM,
+    \[Sales] pop-up has values which are aggregates. Choose SUM,
 
 10. Setting the Filter to Range of Values (default), change the lower
     number to 10,000.00. Click OK
@@ -296,8 +288,8 @@ c)  Click "OK"
 
 13. Your chart should look like page 59 in your book.
 
-> Chapter 12 - Exercise (Calculated Fields) - 5 Minutes -- Book Pages:
-> 62
+**Chapter 12 - Exercise (Calculated Fields) - 5 Minutes -- Book Pages:
+ 62**
 
 1.  Get a new worksheet, name it "Calcs" (color if desired)
 
@@ -316,7 +308,7 @@ c)  Click "OK"
     your first calculation.
 
 8.  Go to the "Show Me" option and choose the first "Text Table" tool
-    (1^st^ tool in row, 1^st^ tool in column)
+    (1st tool in row, 1st tool in column)
 
 9.  See the difference between Count Order and Count Order Distinct.
     What does this mean? -- That order ID's may sometimes contain more
@@ -325,8 +317,8 @@ c)  Click "OK"
     will only show ONE DISTINCT OrderID, regardless of how many line
     items were in that order.
 
-> Chapter 12 - Exercise (AOV -- Average Order Value) - 10 Minutes --
-> Book Pages: 63
+ **Chapter 12 - Exercise (AOV -- Average Order Value) - 10 Minutes --
+ Book Pages: 63**
 
 1.  Get a new worksheet, name it "Conditions" (color if desired)
 
@@ -335,17 +327,17 @@ c)  Click "OK"
 
 3.  The Calculation is as follows:
 
-> SUM(\[Sales)/ Count Orders Distinct
->
-> \*\*Note!!! There are no parentheses around "Count Orders Distinct".
-> Normally, this would cause an error in Tableau. But, since Count
-> Orders Distinct is actually a calculated field which is already
-> aggregated, there is no issue.
->
-> \*\*\*You will use this calculation in the next exercise.
->
-> Chapter 12 - Exercise (Aggregating Calculated Fields) - 10 Minutes --
-> Book Pages: 65-67
+ SUM(\[Sales]) Count Orders Distinct
+
+ \*\*Note!!! There are no parentheses around "Count Orders Distinct".
+ Normally, this would cause an error in Tableau. But, since Count
+ Orders Distinct is actually a calculated field which is already
+ aggregated, there is no issue.
+
+ \*\*\*You will use this calculation in the next exercise.
+
+ **Chapter 12 - Exercise (Aggregating Calculated Fields) - 10 Minutes --
+ Book Pages: 65-67**
 
 1.  Continue with your "Conditions" Worksheet.
 
@@ -360,21 +352,21 @@ c)  Click "OK"
 
     b.  Below is the calculation, if you prefer to type it:
 
-> IF \[Sub-Category\] = \"Copiers\"
->
-> OR \[Sub-Category\] = \"Machines\"
->
-> OR \[Sub-Category\] = \"Supplies\"
->
-> THEN \"My Sub-Categories\"
->
-> ELSE \"Other\"
->
-> END
->
-> \*\*The calculation appears in capital letters, but this has no
-> significance. It just makes it easier to read. These key words are NOT
-> case-sensitive.
+ IF \[Sub-Category\] = \"Copiers\"
+
+ OR \[Sub-Category\] = \"Machines\"
+
+ OR \[Sub-Category\] = \"Supplies\"
+
+ THEN \"My Sub-Categories\"
+
+ ELSE \"Other\"
+
+ END
+
+ \*\*The calculation appears in capital letters, but this has no
+ significance. It just makes it easier to read. These key words are NOT
+ case-sensitive.
 
 3.  Drag Sub-Category dimension to the Row shelf.
 
@@ -385,8 +377,7 @@ c)  Click "OK"
 
 6.  Format this measure as Currency (Standard).
 
-> Chapter 13 - Exercise (Table Calculations) - 5 Minutes -- Book Pages:
-> 69-74
+**Chapter 13 - Exercise (Table Calculations) - 5 Minutes -- Book Pages: 69-74**
 
 1.  Create a new Worksheet named "CrossTab" (color if desired).
 
@@ -419,7 +410,7 @@ c)  Click "OK"
 
 11. Check your results. It should look similar to the chart on page 74.
 
-> Chapter 14 - Exercise (Parameters) - 5 Minutes -- Book Pages: 76-79
+**Chapter 14 - Exercise (Parameters) - 5 Minutes -- Book Pages: 76-79**
 
 1.  Create a new Worksheet named "Params" (color if desired)
 
@@ -442,7 +433,7 @@ c)  Click "OK"
 4.  Click "OK"
 
 5.  Create a new calculation, name it Algebra Equation. Type in:
-    MIN(2) \* \[Algebra Parameter\]
+    MIN(2) \* \[Algebra Parameter]
 
     -   Additionally, you can drag your new parameter in from the Data
         sidebar.
@@ -466,11 +457,11 @@ c)  Click "OK"
 10. Change the size of the font used by the Algebra Equation pill in
     view to 24 points.
 
-> Chapter 15 - Exercise (Sets) - 15 Minutes -- Book Pages: 81 - 88
+**Chapter 15 - Exercise (Sets) - 15 Minutes -- Book Pages: 81 - 88**
 
 1.  Create a new Worksheet named "Sets Filter" (color if desired)
 
-> **WAY ONE to Create Sets**
+ **WAY ONE to Create Sets**
 
 a.  Drag SALES measure to Column
 
@@ -493,12 +484,12 @@ g.  Drag the new Set onto the Rows shelf, to the right of the Customer
     rest are "OUT" of the set.
 
 h.  Right-click on the IN/OUT(First 20 Customers) pill (Set), choose
-    Edit Aliases: change In value to "1^st^ 20 Customers; change the Out
+    Edit Aliases: change In value to "1st 20 Customers; change the Out
     values to "Rest of Customers".
 
 i.  Undo the Aliases, if desired.
 
-> **WAY TWO to Create Sets**
+**WAY TWO to Create Sets**
 
 a.  Right-click the Customer Name dimension in Data side bar, Choose
     Create, and Create Set off the menu.
@@ -507,7 +498,7 @@ b.  See the pic on Page 83 to compare what you are looking at.
 
 c.  Click Cancel (we are just looking at a different way to make a set)
 
-USING SETS FIVE WAYS
+**USING SETS FIVE WAYS**
 
 1.  WAY ONE - FILTER
 
@@ -546,7 +537,7 @@ USING SETS FIVE WAYS
 
     n.  Change mark type to Circle; add a dark border around the mark.
 
-    o.  Click on the "IN" (or '1^st^ 20 Customers') data item and
+    o.  Click on the "IN" (or '1st 20 Customers') data item and
         associate it to the red(ish) color to the right. Then click OK
 
     p.  Compare your chart to the picture on the top of Page 86.
@@ -565,7 +556,7 @@ USING SETS FIVE WAYS
     u.  Name it "Custom Hierarchy."
 
     v.  Re-order the custom hierarchy just created to show the following
-        order: First 20 Customers, Segment, Customer Name**.**
+        order: First 20 Customers, Segment, Customer Name.
 
     w.  Drag SALES measure to Column shelf
 
@@ -582,8 +573,8 @@ USING SETS FIVE WAYS
         page 88. You got three different views as a result of this
         hierarchy.
 
-> Chapter 16 - Exercise (Level of Detail Expressions (LOD)) - 10 Minutes
-> -- Book Pages: 90-92
+**Chapter 16 - Exercise (Level of Detail Expressions (LOD)) - 10 Minutes
+ -- Book Pages: 90-92**
 
 1.  Create a new Worksheet named "LOD" (color if desired)
 
@@ -596,7 +587,7 @@ USING SETS FIVE WAYS
 
 5.  Change Fit screen settings to show Entire View.
 
-> Compare to top of page 90 in book.
+ Compare to top of page 90 in book.
 
 6.  Drag Sub-Category dimension to row, next to Category
 
@@ -604,25 +595,25 @@ USING SETS FIVE WAYS
 
 8.  Create a new calculation named "Exclude Sub-Category"
 
-> Here is the calculation:
->
-> { EXCLUDE \[Sub-Category\]: SUM(\[Sales\]) }
+ Here is the calculation:
+
+ { EXCLUDE \[Sub-Category]: SUM(\[Sales]) }
 
 9.  Drag this to the Column shelf, next to SALES
 
 10. Create another calculation named "Divide Sales by Exclude Sub
     Category"
 
-> Here is the calculation:
->
-> SUM(\[Sales\])/SUM(\[Exclude Sub-Category\])
+ Here is the calculation:
+
+ SUM(\[Sales])/SUM(\[Exclude Sub-Category])
 
 11. Drag that calculated field as the last pill on the column shelf.
 
 12. Check your charts with top and bottom of page 92 in book.
 
-> Chapter 17 - Exercise (Dashboards and Distribution) - 10 Minutes --
-> Book Pages: 96-100
+ **Chapter 17 - Exercise (Dashboards and Distribution) - 10 Minutes --
+ Book Pages: 96-100**
 
 1.  Create a new Worksheet names "Map" -- color if desired
 
@@ -650,7 +641,7 @@ USING SETS FIVE WAYS
 
 10. Increase the Size settings for the pie marks.
 
-> NEXT
+ NEXT
 
 11. Create a new DASHBOARD (either use menu DASHBOARD or the middle tool
     on the sheets tabs) name it "Sales Dashboard"
@@ -680,12 +671,12 @@ USING SETS FIVE WAYS
     c.  Save in the default (My Tableau Repository) directory; save as
         "My Superstore Data Source."
 
-> **THE TOPICS IN THE PART 1 EXERCISES WERE COVERED IN THE TABLEAU
-> BEGINNING CLASS, EXCEPT FOR A LIMITED FEW, THAT WILL BE TAUGHT IN THIS
-> CLASS. IF YOU CAN COMPLETE THE EXERCISES ABOVE, YOU ARE READY TO
-> CONTINUE ON WTH THE TABLEAU DESKTOP 2 CLASS.**
+**THE TOPICS IN THE PART 1 EXERCISES WERE COVERED IN THE TABLEAU
+ BEGINNING CLASS, EXCEPT FOR A LIMITED FEW, THAT WILL BE TAUGHT IN THIS
+ CLASS. IF YOU CAN COMPLETE THE EXERCISES ABOVE, YOU ARE READY TO
+ CONTINUE ON WTH THE TABLEAU DESKTOP 2 CLASS.**
 
-[^1]: The Workbooks folder is located in the downloaded student data
+[1]: The Workbooks folder is located in the downloaded student data
     files at the following link:
 
-    <https://github.com/ONLC-Classes/XTBM10---Tableau-Desktop-Level-2>
+    https://github.com/ONLC-Classes/XTBM10---Tableau-Desktop-Level-2
