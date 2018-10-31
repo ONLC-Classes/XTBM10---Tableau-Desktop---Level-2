@@ -3,7 +3,7 @@ Desktop Level 2]**
 
 **This Lab book is Part 3 of 5 Parts**
 
-Part 3 -- Tips and Tricks
+**Part 3 -- Tips and Tricks**
 
 **Chapter 47 - Exercise (Icons) - 8 Minutes -- Book Pages: 295-299**
 
