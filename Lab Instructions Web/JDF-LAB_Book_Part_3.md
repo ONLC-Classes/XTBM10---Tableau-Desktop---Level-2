@@ -1,11 +1,11 @@
 **[LAB Book partners up with Practical Tableau Book: Used for Tableau
-Desktop Level 2]{.underline}**
+Desktop Level 2]**
 
 **This Lab book is Part 3 of 5 Parts**
 
 Part 3 -- Tips and Tricks
 
-Chapter 47 - Exercise (Icons) - 8 Minutes -- Book Pages: 295-299
+**Chapter 47 - Exercise (Icons) - 8 Minutes -- Book Pages: 295-299**
 
 1.  Before you begin:
 
@@ -99,7 +99,7 @@ Chapter 47 - Exercise (Icons) - 8 Minutes -- Book Pages: 295-299
     This is because your option was set to "Show All Values" when
     choosing "Clearing the Selection" (from step 23).
 
-Chapter 48 - Exercise (What-If) - 8 Minutes -- Book Pages: 301-305
+**Chapter 48 - Exercise (What-If) - 8 Minutes -- Book Pages: 301-305**
 
 1.  Create a new worksheet and name it "What If". Color the sheet tab if
     desired.
@@ -124,9 +124,9 @@ Chapter 48 - Exercise (What-If) - 8 Minutes -- Book Pages: 301-305
 
     e.  Name: "What-If Sales"
 
-> ALT - you can drag and drop your Sales Measure and your What-If
-> Parameter into the calculation as you type, or you can copy below: (or
-> use Solution)
+ ALT - you can drag and drop your Sales Measure and your What-If
+ Parameter into the calculation as you type, or you can copy below: (or
+ use Solution)
 
 f.  The calculation is: \[Sales\] \* (1 + \[What-If\] /100)
 
@@ -176,12 +176,12 @@ g.  Click OK
 
 13. Edit the worksheet Title to show:
 
-> "The *What-If Sales* Multiplier shows a forecasted \<Parameters.What
-> If\>% increase in sales."
->
-> Chapter 49 - Exercise (Alert 1) - 15 Minutes -- Book Pages: 307-311.
-> Note: Chapter 66 is also referenced to create the Parameter &
-> calculated field.
+ "The *What-If Sales* Multiplier shows a forecasted \<Parameters.What
+ If\>% increase in sales."
+
+ **Chapter 49 - Exercise (Alert 1) - 15 Minutes -- Book Pages: 307-311**
+ Note: Chapter 66 is also referenced to create the Parameter &
+ calculated field.
 
 1.  Get a new sheet and call it "Alerts 1". Color the sheet tab if
     desired.
@@ -217,7 +217,7 @@ g.  Click OK
 
     e.  Create a calculation and name it "Date Choice".
 
-        DATETRUNC(\[Set Date Aggregation\], \[Order Date\])
+       DATETRUNC(\[Set Date Aggregation\], \[Order Date\])
 
 5.  Place the Sales measure on the Rows shelf.
 
@@ -231,8 +231,8 @@ g.  Click OK
 
 9.  Next, change the Title of the worksheet to read:
 
-> "This worksheet shows data aggregation by date range set to:
-> \<Parameters.Set Date Aggregation\>."
+ "This worksheet shows data aggregation by date range set to:
+ \<Parameters.Set Date Aggregation\>."
 
 i.  Hint: if you accidentally delete any of the fields, you can use the
     INSERT tool to get them back (take a look by clicking, to see what
@@ -245,7 +245,7 @@ ii. Format the text as desired and then click OK (once).
 10. Play the Set Date Aggregation parameter control by changing the date
     parts to reflect different granularities.
 
-> Chapter 49 - Exercise (Alert 2) - 5 Minutes -- Book Pages: 309
+ **Chapter 49 - Exercise (Alert 2) - 5 Minutes -- Book Pages: 309**
 
 1.  Create a new worksheet and name it "Alerts 2" Color the sheet tab if
     desired.
@@ -261,13 +261,13 @@ ii. Format the text as desired and then click OK (once).
 
     b.  Calc:
 
-> IF SUM(\[Sales\]) \>= 97000 THEN \"Extra Great\"
->
-> ELSEIF SUM(\[Sales\]) \<= 12000 THEN "Extra Terrible\"
->
-> ELSE NULL
->
-> END
+ IF SUM(\[Sales\]) \>= 97000 THEN \"Extra Great\"
+
+ ELSEIF SUM(\[Sales\]) \<= 12000 THEN "Extra Terrible\"
+
+ ELSE NULL
+
+ END
 
 5.  Drag your new Dynamic Label Alert measure to the Label card. Format
     the Label card as desired.
@@ -276,8 +276,8 @@ ii. Format the text as desired and then click OK (once).
 
 7.  Labels will automatically appear
 
-> Chapter 49 - Exercise (Alert 3) - 5 Minutes -- Book Pages: 310-311
-> (different example than book's example)
+ **Chapter 49 - Exercise (Alert 3) - 5 Minutes -- Book Pages: 310-311
+(different example than book's example)**
 
 1.  Get a new sheet and call it "Alerts 3" Color the sheet tab if
     desired.
@@ -291,17 +291,17 @@ ii. Format the text as desired and then click OK (once).
 5.  Create a calculation to show Profit as a % of Sales named: KPI
     Ratio:
 
-> SUM(\[Profit\]) / SUM(\[Sales\])
+ SUM(\[Profit\]) / SUM(\[Sales\])
 
 6.  Create a second calculation named "KPI Ratio Color and Shape":
 
-> IF \[KPI Ratio\] \>.12 THEN \"Greater than 12%\"
->
-> ELSEIF \[KPI Ratio\] \<.05 THEN \"Less than 5%\"
->
-> ELSE \"Between 5% and 12%\"
->
-> END
+ IF \[KPI Ratio\] \>.12 THEN \"Greater than 12%\"
+
+ ELSEIF \[KPI Ratio\] \<.05 THEN \"Less than 5%\"
+
+ ELSE \"Between 5% and 12%\"
+
+ END
 
 7.  Drag the KPI Ratio Color and Shape measure to the Color shelf.
 
@@ -310,11 +310,11 @@ ii. Format the text as desired and then click OK (once).
 
     a.  Choose \"Thin Arrows\" from the shape palette choices.
 
-        i.  Assign \"Greater than 12%" with the UP arrow
+       i.  Assign \"Greater than 12%" with the UP arrow
 
-        ii. \"Less than 5%\" with DOWN arrow
+       ii. \"Less than 5%\" with DOWN arrow
 
-        iii. \"Between 5% and 12"\" with the RIGHT arrow.
+       iii. \"Between 5% and 12"\" with the RIGHT arrow.
 
 9.  Edit the Color Card. Pick \"Traffic Light\" --
 
@@ -346,8 +346,8 @@ ii. Format the text as desired and then click OK (once).
 
     vi. Red - \"Between 5% and 12"
 
-> Chapter 56 - Exercise (showing Concept of Dynamic Dashboard Views) -
-> 10 Minutes -- Rest of Book examples on Pages: 353-363
+ **Chapter 56 - Exercise (showing Concept of Dynamic Dashboard Views) -
+ 10 Minutes -- Rest of Book examples on Pages: 353-363**
 
 DYNAMIC VIEWS:
 
@@ -359,13 +359,11 @@ DYNAMIC VIEWS:
 
 4.  Use the screenshot below to complete the parameter settings.
 
-> ![](.//media/image1.png){width="4.088999343832021in"
-> height="3.6393493000874892in"}
+> ![](/media/part3image1.png)
 
 5.  Create a calculated field: **ChoiceOfMeasure**
 
-![](.//media/image2.png){width="5.301420603674541in"
-height="3.135025153105862in"}
+![](/media/part3image2.png)
 
 Assemble:
 
