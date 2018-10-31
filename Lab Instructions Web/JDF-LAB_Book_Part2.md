@@ -1,10 +1,10 @@
 **[LAB Book partners up with Practical Tableau Book: Used for Tableau
-Desktop Level 2]{.underline}**
+Desktop Level 2]**
 
-**This Lab book is Part 2 of 5 Parts. **
+**This Lab book is Part 2 of 5 Parts.**
 
 **Part 1 LAB BOOK has been designed for anyone who wants to prepare for
-Parts 2-5. **
+Parts 2-5.**
 
 **If you did not take the Tableau Desktop Level 1 class, you should work
 your way through this Part 1 Lab Book, to be sure you understand the
@@ -35,8 +35,8 @@ business reason. Glance through the arts, and pick and choose or do them
 all! However, if you want a challenge, flip to Page 195 (and move down
 the Lab Exercises in this book to Chapter 33).
 
-Chapter 19 - Exercise (Highlighted Table) - 3 Minutes -- Book Pages:
-110-112
+**Chapter 19 - Exercise (Highlighted Table) - 3 Minutes -- Book Pages:
+110-112**
 
 1.  Create a new WORKBOOK. Use the Excel Sample Super Store as your data
     source, Double Click the ORDERS Table to obtain the Dimensions and
@@ -47,7 +47,7 @@ Chapter 19 - Exercise (Highlighted Table) - 3 Minutes -- Book Pages:
     under the Saved Data Sources category located in the left connection
     panel in the application window.*
 
-3.  Save the Workbook "PartTwo.twbx". (There is a copy of this workbook
+3.  Save the Workbook **"PartTwo.twbx".** (There is a copy of this workbook
     in the WORKBOOKS folder that has the solutions for the labs.)
 
 4.  Rename Sheet1 and call it "Highlight Table". Color the sheet tab if
@@ -68,7 +68,7 @@ Chapter 19 - Exercise (Highlighted Table) - 3 Minutes -- Book Pages:
 10. Edit the Color card, using the Border tool to put a white border on
     your table.
 
-Chapter 20 - Exercise (Heat Map) - 8 Minutes -- Book Pages: 114-117
+**Chapter 20 - Exercise (Heat Map) - 8 Minutes -- Book Pages: 114-117**
 
 1.  Get a new Sheet and name it "Heat Map". Color the sheet tab if
     desired.
@@ -80,8 +80,8 @@ Chapter 20 - Exercise (Heat Map) - 8 Minutes -- Book Pages: 114-117
 
 4.  Drag Sub-Category to the Color card.
 
-> See Page 114 to compare to book. (Notice how messy these lines are and
-> in some case are overlapping. The goal will be to create a heat map.
+ See Page 114 to compare to book. (Notice how messy these lines are and
+ in some case are overlapping. The goal will be to create a heat map.
 
 5.  Clear the work sheet
 
@@ -103,8 +103,8 @@ Chapter 20 - Exercise (Heat Map) - 8 Minutes -- Book Pages: 114-117
 
 12. Sort Sub-Category by Sum of Sales, Descending.
 
-Chapter 21 - Exercise (Dual-Axis/Combination) - 4 Minutes -- Book Pages:
-119-123
+**Chapter 21 - Exercise (Dual-Axis/Combination) - 4 Minutes -- Book Pages:
+119-123**
 
 1.  Get a new Sheet and name it "Dual-Axis". Color the sheet tab if
     desired.
@@ -142,7 +142,7 @@ Chapter 21 - Exercise (Dual-Axis/Combination) - 4 Minutes -- Book Pages:
 
 13. Check your final picture with Page 123 of your book.
 
-Chapter 22 - Exercise (Scatter Plot) - 5 Minutes -- Book Pages: 126-128
+**Chapter 22 - Exercise (Scatter Plot) - 5 Minutes -- Book Pages: 126-128**
 
 1.  Get a new Sheet and name it "Scatter Plot". Color the sheet tab if
     desired.
@@ -159,9 +159,9 @@ Chapter 22 - Exercise (Scatter Plot) - 5 Minutes -- Book Pages: 126-128
     If you are typing the formula from scratch (or you can copy the text
     below), here is the calculation:
 
-> If calculated field (measure) is needed - Name: Profit Ratio
->
-> Calculation: SUM(\[Profit\]) / SUM(\[Sales\])
+ If calculated field (measure) is needed - Name: Profit Ratio
+
+ Calculation: SUM(\[Profit]) / SUM(\[Sales])
 
 3.  Drag the "Profit Ratio" measure to the Row shelf. Notice you have
     only ONE circle. -- This is because you have no "level of detail"
@@ -180,13 +180,13 @@ Chapter 22 - Exercise (Scatter Plot) - 5 Minutes -- Book Pages: 126-128
         (Average). See second pic below:
 
   -------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------
-  ![](.//media/image1.png){width="1.9085247156605425in" height="2.6345286526684166in"}   ![](.//media/image2.png){width="2.1051509186351707in" height="2.644449912510936in"}
+  ![](/media/part2image1.png)   ![](/media/part2image2.png)
   -------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------
 
 Check Page 128 of your book for accuracy.
 
-Chapter 23 - Exercise (Tree Map -- Four Ideas) - 15 Minutes -- Book
-Pages: 131-135
+**Chapter 23 - Exercise (Tree Map -- Four Ideas) - 15 Minutes -- Book
+Pages: 131-135**
 
 Tree Map 1
 
@@ -213,8 +213,7 @@ Tree Map 2
     effort to make your chart wider. See pic below for where to put your
     mouse:
 
-    a.  ![](.//media/image3.png){width="4.254717847769029in"
-        height="4.254717847769029in"}
+    a.  ![](/media/part2image3.png)
 
 4.  Look at page 133 in your book to see that your chart looks similar
     to the book.
@@ -260,7 +259,7 @@ Tree Map 4
 
 8.  Check page 135 in your book for how your chart should look.
 
-Chapter 24 - Exercise (Sparklines) - 8 Minutes -- Book Pages: 138-144
+**Chapter 24 - Exercise (Sparklines) - 8 Minutes -- Book Pages: 138-144**
 
 1.  Get a new Sheet and name it "Sparklines". Color the sheet tab if
     desired.
@@ -310,8 +309,8 @@ Chapter 24 - Exercise (Sparklines) - 8 Minutes -- Book Pages: 138-144
 9.  Check Page 144 to see that it is similar (except for color) to the
     Sparkline chart on that page.
 
-Chapter 25 - Exercise (Small Multiples) - 5 Minutes -- Book Pages:
-148-151
+**Chapter 25 - Exercise (Small Multiples) - 5 Minutes -- Book Pages:
+148-151**
 
 1.  Get a new Sheet and name it "Small Multiples". Color the sheet tab
     if desired.
@@ -325,7 +324,7 @@ Chapter 25 - Exercise (Small Multiples) - 5 Minutes -- Book Pages:
 5.  Right-drag the Order Date dimension onto the Column shelf and choose
     the continuous (green) MONTH option (4th from bottom)
 
-> Check page 149 to check your progress.
+ Check page 149 to check your progress.
 
 6.  There are some formatting options on the bottom of page 151 that
     will make your chart look nicer. Give any/all a try, as desired. To
@@ -339,8 +338,8 @@ Chapter 25 - Exercise (Small Multiples) - 5 Minutes -- Book Pages:
 8.  Check page 151 to see if your chart appears as the picture in the
     book.
 
-Chapter 26 - Exercise (Bullet Graphs) - 15 Minutes -- Book Pages:
-153-160
+**Chapter 26 - Exercise (Bullet Graphs) - 15 Minutes -- Book Pages:
+153-160**
 
 1.  Create a new worksheet; name it "Bullet". Color the sheet tab if
     desired.
@@ -381,7 +380,7 @@ Chapter 26 - Exercise (Bullet Graphs) - 15 Minutes -- Book Pages:
 
 9.  Click "OK"
 
-> The first part of your bullet graph is complete
+ The first part of your bullet graph is complete
 
 10. For a second time, right-click the X-Axis (This Year's Sales), and
     "Add Reference Line"
@@ -393,7 +392,7 @@ Chapter 26 - Exercise (Bullet Graphs) - 15 Minutes -- Book Pages:
     g.  Change the "Scope" from Per Pane to Per Cell
 
     h.  Change the "Computation Value" by Clicking the arrow down and
-        next to Percentages\| "Percent of", and change the value to
+        next to Percentages "Percent of", and change the value to
         "Last Year's Sales".
 
     i.  Change calculation below from Average to *Total* or *Sum*.
@@ -413,8 +412,8 @@ Chapter 26 - Exercise (Bullet Graphs) - 15 Minutes -- Book Pages:
 
 13. Check page 159 to see how your chart compares to the book.
 
-> Chapter 27 - Exercise (Stacked Area) - 4 Minutes -- Book Pages:
-> 161-167
+ **Chapter 27 - Exercise (Stacked Area) - 4 Minutes -- Book Pages:
+ 161-167**
 
 1.  Get a new Sheet and name it "Area". Color the sheet tab if desired.
 
@@ -443,7 +442,7 @@ Chapter 26 - Exercise (Bullet Graphs) - 15 Minutes -- Book Pages:
     Check Page 167 to see how your chart "stacks up" to the one in the
     book. 😊
 
-> Chapter 28 - Exercise (Histogram) - 4 Minutes -- Book Pages: 172-173
+**Chapter 28 - Exercise (Histogram) - 4 Minutes -- Book Pages: 172-173**
 
 1.  Get a new Sheet and name it "Histogram". Color the sheet tab if
     desired.
@@ -475,8 +474,8 @@ Chapter 26 - Exercise (Bullet Graphs) - 15 Minutes -- Book Pages:
 9.  Modify the worksheet title to show: "Histogram: Number of Orders
     with Given \# of Products per Order".
 
-Chapter 29 - Exercise (Box and Whisker) - 3 Minutes -- Book Pages:
-175-181
+**Chapter 29 - Exercise (Box and Whisker) - 3 Minutes -- Book Pages:
+175-181**
 
 1.  Create a new worksheet and name it "Box & Whisker". Color the sheet
     tab if desired.
@@ -500,7 +499,7 @@ Chapter 29 - Exercise (Box and Whisker) - 3 Minutes -- Book Pages:
 
 8.  Check page 181 for finished map to compare yours.
 
-Chapter 30 - Exercise (Symbol Map) - 3 Minutes -- Book Pages: 177-181
+**Chapter 30 - Exercise (Symbol Map) - 3 Minutes -- Book Pages: 177-181**
 
 1.  Get a new Sheet and name it "Symbol Map". Color the sheet tab if
     desired.
@@ -514,9 +513,9 @@ Chapter 30 - Exercise (Symbol Map) - 3 Minutes -- Book Pages: 177-181
 5.  Click on the Color card in the Marks shelf and play with the opacity
     and borders. You can make your map "pop" with these.
 
-> Check page 185 (top) to compare yours.
+ Check page 185 (top) to compare yours.
 
-Chapter 30 - Exercise (Map-Box Map) - 10 Minutes -- Book Pages: 185-186
+**Chapter 30 - Exercise (Map-Box Map) - 10 Minutes -- Book Pages: 185-186**
 
 1.  Get a new Sheet and name it "Map Box Map". Color the sheet tab if
     desired.
@@ -554,7 +553,7 @@ Chapter 30 - Exercise (Map-Box Map) - 10 Minutes -- Book Pages: 185-186
 
 15. Check page 186 (bottom) to compare yours.
 
-Chapter 31 - Exercise (Filled Map) - 2 Minutes -- Book Page: 187-189
+**Chapter 31 - Exercise (Filled Map) - 2 Minutes -- Book Page: 187-189**
 
 1.  Create a new worksheet and name it "Filled Map". Color the sheet tab
     if desired.
@@ -569,7 +568,7 @@ Chapter 31 - Exercise (Filled Map) - 2 Minutes -- Book Page: 187-189
 
 5.  Compare page 189 with yours
 
-Chapter 32 - Exercise (Dual Axis Map) - 5 Minutes -- Book Page: 191-193
+**Chapter 32 - Exercise (Dual Axis Map) - 5 Minutes -- Book Page: 191-193**
 
 1.  Get a new Sheet and name it "Dual Axis Map". Color the sheet tab if
     desired.
@@ -587,7 +586,7 @@ Chapter 32 - Exercise (Dual Axis Map) - 5 Minutes -- Book Page: 191-193
     something that will stand out -- Black is the best, though your book
     uses white.
 
-7.  Select the 1^st^ *Latitude(generated)* and remove the Sales,
+7.  Select the 1st *Latitude(generated)* and remove the Sales,
     Country, and City pills from the Marks card.
 
 8.  Add the Region Dimension to the Color card.
@@ -597,9 +596,9 @@ Chapter 32 - Exercise (Dual Axis Map) - 5 Minutes -- Book Page: 191-193
 10. Click on the SECOND *Latitude(generated)* pill on the Rows shelf and
     choose "Dual Axis".
 
-> Although they become one map, if the filled map is covering the symbol
-> map, reverse the order by dragging the second Latitude pill in front
-> of the first one.
+ Although they become one map, if the filled map is covering the symbol
+ map, reverse the order by dragging the second Latitude pill in front
+ of the first one.
 
 11. Check page 193 to compare yours. Change Size card and the Color card
     settings for Sum(Sales) circle marks, if desired.
