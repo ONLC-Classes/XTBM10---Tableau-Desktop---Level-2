@@ -200,17 +200,13 @@ g.  Click OK
         then double clicking the Display field. Set them up as follows:
         (be sure to use all small letters on the Value (left) side.
 
-+-----------+-----------+
+
 | > day     | > Day     |
-+===========+===========+
+| ----      |   ----    |
 | > week    | > Week    |
-+-----------+-----------+
 | > quarter | > Quarter |
-+-----------+-----------+
 | > month   | > Month   |
-+-----------+-----------+
 | > year    | > Year    |
-+-----------+-----------+
 
 4.  Show the parameter control. Change format/layout of the parameter to
     Single Value List.
@@ -359,7 +355,7 @@ DYNAMIC VIEWS:
 
 4.  Use the screenshot below to complete the parameter settings.
 
-> ![](/media/part3image1.png)
+![](/media/part3image1.png)
 
 5.  Create a calculated field: **ChoiceOfMeasure**
 
