@@ -3,7 +3,7 @@ Desktop Level 2]**
 
 **This Lab book is Part 5 of 5 Parts**
 
-Part 4 and 5 -- Framework and Storytelling
+**Part 4 and 5 -- Framework and Storytelling**
 
 The concepts in these two chapters are essential for working with the
 Business and teams of people in Tableau.
