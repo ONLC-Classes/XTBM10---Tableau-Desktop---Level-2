@@ -1,8 +1,8 @@
 **[LAB Book partners up with Practical Tableau Book: Used for Tableau
-Desktop Level 2]{.underline}**
+Desktop Level 2]**
 
 **This Lab book is Part 3 of 5 Parts. Part 1 of the LAB BOOK has been
-designed for anyone who wants to prepare for Parts 2-5. **
+designed for anyone who wants to prepare for Parts 2-5.**
 
 **If you did not take the Tableau Desktop Level 1 class, you should work
 your way through this Part 1 Lab Book, to be sure you understand the
@@ -19,13 +19,13 @@ the solutions.**
 **\*\*Also note that the chapters in Part 2 will use the Marks card, in
 order to create charts without the "Show Me" wizard.**
 
-**For more help and information about [Practical Tableau]{.underline},
+**For more help and information about [Practical Tableau],
 please visit www.ryansleeper.com**
 
-Part 2 -- Chart Types - ADVANCED
+**Part 2 -- Chart Types - ADVANCED**
 
-Chapter 33 - Exercise (Sequential Path) - 3 Minutes -- Book Page:
-195-198
+**Chapter 33 - Exercise (Sequential Path) - 3 Minutes -- Book Page:
+195-198**
 
 1.  Create a new workbook connected to the Sample -- Superstore.xlsx
     file and the Orders worksheet.
@@ -63,8 +63,8 @@ Chapter 33 - Exercise (Sequential Path) - 3 Minutes -- Book Page:
 
 11. Compare your chart to page 198
 
-Chapter 34 - Exercise (Custom Background) -- 5-15 Minutes (depending on
-your choice below) -- Book Page: 199-206
+**Chapter 34 - Exercise (Custom Background) -- 5-15 Minutes (depending on
+your choice below) -- Book Page: 199-206**
 
 1.  Get a new Sheet and name it "Back Image". Color the sheet tab if
     desired.
@@ -76,7 +76,7 @@ your choice below) -- Book Page: 199-206
     difference. One is nearly empty and the other is complete. Below
     find both ways to complete Exercise:
 
-FROM SCRATCH:
+**FROM SCRATCH:**
 
 1.  Add the "coords.xlsx" data source (from PartTwo\_Advanced folder)
 
@@ -144,16 +144,16 @@ FROM SCRATCH:
     b.  In File or URL address text box, choose Browse and find the
         bdiamond.jpg file located in the downloaded data folder path:
 
-        i.  Tableau L2 Instruction Data and
-            Examples\\XTBM10\-\--Tableau-Desktop-Level-2-master\\Images\\
-            bdiamond.jpg.
+       i.  Tableau L2 Instruction Data and
+           Examples\\XTBM10\-\--Tableau-Desktop-Level-2-master\\Images\\
+           bdiamond.jpg.
 
     c.  The Pop-up box needs to be completed as follows: (be sure that
         there is both and X and a Y entry by using dropdown)
 
-        ii. X Position: 0 Left, 500 Right
+       ii. X Position: 0 Left, 500 Right
 
-        iii. Y Position: ) Bottom, 500 Top
+       iii. Y Position: ) Bottom, 500 Top
 
     d.  Click OK until you return the main editing window in Tableau.
 
@@ -173,20 +173,20 @@ FROM SCRATCH:
 
 8.  Change Mark type to Circle, change Color and Size.
 
-> If you want to "hide" the Lookup mark, create an Area annotation and
-> place it atop the Lookup Mark. Type something like: "Player positions
-> in Baseball."
+ If you want to "hide" the Lookup mark, create an Area annotation and
+ place it atop the Lookup Mark. Type something like: "Player positions
+ in Baseball."
 
 \*\*\*\*Either way you complete it, do this final format:
 
-Chapter 35 - Exercise (Custom Polygon) --
+**Chapter 35 - Exercise (Custom Polygon)** --
 
 This exercise should be skipped as we have seen much of same previously.
 If the students want to complete it, they should follow the directions
 on pages 207-210. However, they will need to create a custom data set in
 excel for the purposes of this lab.
 
-Chapter 36 - Exercise (Gantt) -- 10 Minutes -- Book Pages: 211-215
+**Chapter 36 - Exercise (Gantt) -- 10 Minutes -- Book Pages: 211-215**
 
 1.  Create a new worksheet and name it "Gantt". Color the sheet tab if
     desired.
@@ -237,7 +237,7 @@ Chapter 36 - Exercise (Gantt) -- 10 Minutes -- Book Pages: 211-215
     differences. But the overall chart should resemble page 215 in your
     book.
 
-Chapter 37 - Exercise (Waterfall) -- 5 Minutes -- Book Pages: 217-221
+**Chapter 37 - Exercise (Waterfall) -- 5 Minutes -- Book Pages: 217-221**
 
 1.  Get a new Sheet and name it "Waterfall". Color the sheet tab if
     desired.
@@ -268,7 +268,7 @@ Chapter 37 - Exercise (Waterfall) -- 5 Minutes -- Book Pages: 217-221
 11. Alt: drag Sub-Category to Color card in Marks shelf and Show Mark
     Labels.
 
-Chapter 38 - Exercise (Slope) -- 5 Minutes -- Book Pages: 223-225
+**Chapter 38 - Exercise (Slope) -- 5 Minutes -- Book Pages: 223-225**
 
 1.  Create a new worksheet and name it "Slope". Color the sheet tab if
     desired.
@@ -296,7 +296,7 @@ Chapter 38 - Exercise (Slope) -- 5 Minutes -- Book Pages: 223-225
 
 10. Check your chart with page 226.
 
-Add a Dual-Axis to slope concept (5 Minutes) -- 226-230
+**Add a Dual-Axis to slope concept (5 Minutes) -- 226-230**
 
 1.  Create a new worksheet and name it "Slope Dual". Color the sheet tab
     if desired.
@@ -346,7 +346,7 @@ Add a Dual-Axis to slope concept (5 Minutes) -- 226-230
 
 17. Check your chart with page 230 to compare.
 
-Chapter 39 - Exercise (Donut) -- 10 Minutes -- Book Pages: 231-237
+**Chapter 39 - Exercise (Donut) -- 10 Minutes -- Book Pages: 231-237**
 
 1.  Create a new worksheet and name it "Donut". Color the sheet tab if
     desired.
@@ -371,7 +371,7 @@ Chapter 39 - Exercise (Donut) -- 10 Minutes -- Book Pages: 231-237
     the "White." Play with the size to make it smaller to get the
     "donut" effect.
 
-9.  Select the 1^st^ Placeholder pill on Rows shelf. Then, drag Measure
+9.  Select the 1st Placeholder pill on Rows shelf. Then, drag Measure
     Names to Color card on Marks shelf
 
 10. Drag Measure Values to the "Angle" card (which was created when you
@@ -388,16 +388,16 @@ Chapter 39 - Exercise (Donut) -- 10 Minutes -- Book Pages: 231-237
 14. Could create a calculation named: "% of Goal" with the calculation
     --
 
-> SUM(\[Sales\])/\[Sales Goals - Actual Goals\].
+ SUM(\[Sales\])/\[Sales Goals - Actual Goals\].
 
-15. Show this at center of 2^nd^ pill for placeholder in donut. Format
+15. Show this at center of 2nd pill for placeholder in donut. Format
     as percentage.
 
 16. Show other Text labels as desired.
 
 17. Hide all Axis Headers (showing 'Placeholder').
 
-Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 239-246
+**Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 239-246**
 
 1.  Create a new worksheet and name it "Funnel". Color the sheet tab if
     desired.
@@ -433,7 +433,7 @@ Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 239-246
     desired, however this will involve a change to the data source. To
     keep it simple for class, we will leave it here.
 
-> Chapter 41 Exercise (Pace) -- 15 Minutes -- Book Pages: 247-255
+ **Chapter 41 Exercise (Pace) -- 15 Minutes -- Book Pages: 247-255**
 
 14. Get a new Sheet and name it "Pace". Color the sheet tab if desired.
 
@@ -442,7 +442,7 @@ Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 239-246
 
 16. Create a new Calculation named "% of Goal" :
 
-> SUM(\[Current\])/SUM(\[Goal\])
+SUM(\[Current\])/SUM(\[Goal\])
 
 17. Drag % of Goal calculated measure to the Columns shelf.
 
@@ -459,9 +459,9 @@ Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 239-246
 
     a.  Change the Value to:
 
-        i.  *Sum of Pace*: Minimum
+       i.  *Sum of Pace*: Minimum
 
-        ii. Choose "Custom" Label and type PACE. Format as a red line,
+       ii. Choose "Custom" Label and type PACE. Format as a red line,
             slightly fatter.
 
 23. Go back to the Analytics tab, add a second Reference Line (to the
@@ -469,7 +469,7 @@ Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 239-246
 
     b.  Change the Value to:
 
-        iii. *AGG of % of GOAL*: Maximum,
+       iii. *AGG of % of GOAL*: Maximum,
 
     c.  Choose "Custom" Label and type in GOA. Format as a red line,
         slightly fatter.
@@ -498,7 +498,7 @@ Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 239-246
 28. Extra: Create a parameter to control the weeks determined for PACE
     in calculation in Step 18. Show the parameter control and adjust.
 
-> Chapter 42 Exercise (Pareto) -- 10 Minutes -- Book Pages: 257-263
+**Chapter 42 Exercise (Pareto) -- 10 Minutes -- Book Pages: 257-263**
 
 1.  Create a new worksheet and name it "Pareto". Color the sheet tab if
     desired.
@@ -516,7 +516,7 @@ Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 239-246
 5.  Create a calculated field called "Returns". Type in this
     calculation:
 
-> COUNT(\[Returned\] = "Yes")
+ COUNT(\[Returned\] = "Yes")
 
 6.  Drag the Sub-Category dimension to the Columns shelf.
 
@@ -526,7 +526,7 @@ Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 239-246
 8.  Drag a SECOND Returns Measure to the Rows shelf --Change the chart
     type to LINE on the Marks shelf.
 
-9.  Set this pill (2^nd^ Returns) to Dual Axis.
+9.  Set this pill (2nd Returns) to Dual Axis.
 
 10. Go to the SECOND Returns Pill and click the and click "Quick Table
     Calculation" -- choose "Running Total"
@@ -541,7 +541,7 @@ Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 239-246
 
 13. Check your chart with the picture on page 263 of your book.
 
-> Chapter 43 Exercise (Control) -- 3 Minutes -- Book Pages: 265-269
+**Chapter 43 Exercise (Control) -- 3 Minutes -- Book Pages: 265-269**
 
 1.  Get a new Sheet and name it "Control". Color the sheet tab if
     desired.
@@ -582,14 +582,14 @@ Chapter 40 Exercise (Funnel) -- 5 Minutes -- Book Pages: 239-246
 
 7.  Check page 269 in your book to compare your chart.
 
-> Chapters 44-46: The three remaining charts are variations of charts
-> you have already created in this book. Feel free to re-visit anytime
-> and use the directions provided in your text book to get through them.
-> Since you have previous experience with all the options, the text book
-> will be sufficient to get through.
->
-> 44 -- Dual Axis Bump
->
-> 45 -- Dumbbell
->
-> 46 - Jitter
+ **Chapters 44-46:** The three remaining charts are variations of charts
+ you have already created in this book. Feel free to re-visit anytime
+ and use the directions provided in your text book to get through them.
+ Since you have previous experience with all the options, the text book
+ will be sufficient to get through.
+
+ **44 -- Dual Axis Bump**
+
+ **45 -- Dumbbell**
+
+ **46 - Jitter**
