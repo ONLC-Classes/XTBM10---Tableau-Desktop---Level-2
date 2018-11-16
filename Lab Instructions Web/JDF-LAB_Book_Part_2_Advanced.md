@@ -93,7 +93,7 @@ your choice below) -- Book Page: 199-206**
 
         -   X Position: 0 Left, 500 Right
 
-        -   Y Position: ) Bottom, 500 Top
+        -   Y Position: 0 Bottom, 500 Top
 
 3.  Open the Data Source in Microsoft Excel -- keep it open in the
     background
